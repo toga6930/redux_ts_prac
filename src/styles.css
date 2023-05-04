@@ -1,0 +1,36 @@
+body {
+  font-family: Poppins;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(234, 237, 240);
+}
+.ul {
+  margin: 1rem;
+}
+.note-list {
+  margin: 2rem;
+  border-bottom: 1px solid;
+  list-style: none;
+  font-size: 1.3rem;
+}
+.note-container {
+  margin: 1rem;
+}
+.note {
+  height: 2rem;
+  width: 20rem;
+  font-size: 1.2rem;
+}
+.note-btn {
+  border: 1px solid black;
+  border-radius: 10%;
+  background-color: white;
+  cursor: pointer;
+  margin-left: 1rem;
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+.note-btn:hover {
+  background: rgb(234, 237, 240);
+}
